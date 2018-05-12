@@ -1,0 +1,46 @@
+_repo: Les-musiciens-et-la-musique_37011
+_version: 0.1.0
+contributor:
+  author_of_introduction:
+    agent_name: Hallays, André
+    alias: Hallays, Andre
+    birthdate: 1859
+    deathdate: 1930
+    gutenberg_agent_id: '43723'
+    url: http://www.gutenberg.org/2009/agents/43723
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Berlioz, Hector
+    aliases:
+    - Berlioz, Louis Hector
+    - Berlioz, H. (Hector)
+    birthdate: 1803
+    deathdate: 1869
+    gutenberg_agent_id: '31953'
+    url: http://www.gutenberg.org/2009/agents/31953
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Hector_Berlioz
+    - http://fr.wikipedia.org/wiki/Hector_Berlioz
+description: ''
+gutenberg_bookshelf: FR Musique
+gutenberg_issued: '2011-08-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37011'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Music -- France -- Paris -- History and criticism'
+- !lcsh 'Musicians'
+- !lcsh 'Music -- History and criticism'
+- !lcc 'ML'
+tableOfContents: Introduction -- Mozart -- Cherubini -- Auber -- Lesueur -- Meyerbeer
+  -- Herold -- Donizetti -- Halévy -- Bellini -- Adam -- Glinka -- Félicien David
+  -- Ambroise Thomas -- Gounod -- Henry Litolff -- Offenbach -- Ernest Reyer -- Bizet.
+title: Les musiciens et la musique
+url: http://www.gutenberg.org/ebooks/37011
